@@ -1,9 +1,5 @@
-// components/index.js
-
-/*
-import Button from './Button';
+import RepeatStage from './RepeatStage/RepeatStage';
 
 export { 
-    Button
+    RepeatStage
 };
-*/
